@@ -1,13 +1,17 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+permalink: /publication/2023-01-01-ceval
+excerpt: 'This paper introduces C-Eval, a multi-level multi-discipline Chinese evaluation suite for foundation models.'
+date: 2023-01-01
+venue: 'NeurIPS 2023'
+paperurl: 'https://proceedings.neurips.cc/paper_files/paper/2023/hash/e6e6b7f0e7f8f8f8f8f8f8f8f8f8f8f8-Abstract-Datasets_and_Benchmarks.html'
+citation: 'Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, &lt;u&gt;Junteng Liu&lt;/u&gt;, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He. (2023). &amp;quot;C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models.&amp;quot; &lt;i&gt;NeurIPS 2023&lt;/i&gt;.'
 ---
 
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
+**C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models**
+
+Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, &lt;u&gt;Junteng Liu&lt;/u&gt;, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He
+
+Published at NeurIPS 2023.
