@@ -1,13 +1,17 @@
 ---
-title: "Paper Title Number 4"
+title: "In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+permalink: /publication/2024-01-02-incontext-sharpness
+excerpt: 'This paper proposes using in-context sharpness as alerts from an inner representation perspective for hallucination mitigation in LLMs.'
+date: 2024-01-02
+venue: 'ICML 2024'
+paperurl: 'https://proceedings.mlr.press/v235/chen24bi.html'
+citation: 'Shiqi Chen, Miao Xiong, &lt;u&gt;Junteng Liu&lt;/u&gt;, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He. (2024). &amp;quot;In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation.&amp;quot; &lt;i&gt;ICML 2024&lt;/i&gt;.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+**In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation**
+
+Shiqi Chen, Miao Xiong, &lt;u&gt;Junteng Liu&lt;/u&gt;, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He
+
+Published at ICML 2024.
